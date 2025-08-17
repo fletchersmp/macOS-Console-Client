@@ -11,9 +11,12 @@ This client is optimized for stability and ease of use, so you can AFK in Minecr
 Most existing Minecraft AFK clients are Windows-only or require complex technical setup. Many macOS players are left without an easy option. **This project was built to fill that gap.**
 
 
+## Getting Started
+
+
+# Acknowledgments
+
 This project is heavily inspired by AFK Console Client developed by Valoks. However, their free program only works on Windows. I highly recommend you check out their amazing project — they also offer a paid web/cloud based client which also allows you to AFK 24/7 on any device.
 
 - [AFK Console Client for Windows](https://github.com/valoks/afkcc-release)
 - [Web/Cloud Version](https://minecraftafk.com/)
-
-## Getting Started
