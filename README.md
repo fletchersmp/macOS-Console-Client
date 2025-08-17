@@ -17,5 +17,3 @@ This project is heavily inspired by AFK Console Client developed by Valoks. Howe
 
 - [AFK Console Client for Windows](https://github.com/valoks/afkcc-release)
 - [Web/Cloud Version](https://minecraftafk.com/)
-- 
-
