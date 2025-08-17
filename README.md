@@ -3,6 +3,7 @@
 ![screenshot](docs/images/macos_preview.png)
 
 A lightweight AFK Console Client designed specifically for **macOS users**.  
+
 This client is optimized for stability and ease of use, so you can AFK in Minecraft without keeping the full game running. Save system resources, run multiple accounts at once, and keep your sessions alive effortlessly.
 
 
@@ -10,7 +11,8 @@ This client is optimized for stability and ease of use, so you can AFK in Minecr
 ## About The Project 
 
 This project is heavily inspired by AFK Console Client developed by Valoks. However, their free program only works on Windows. I highly recommend you check out their amazing project — they offer a paid version which works on all devices from your web browser.
-- [AFK Console Client](https://github.com/valoks/afkcc-release)
+
+- [AFK Console Client for Windows](https://github.com/valoks/afkcc-release)
 - [Web Version](https://minecraftafk.com/)
 
 Most existing Minecraft AFK clients are Windows-only or require complex technical setup. Many macOS players are left without an easy option. **This project was built to fill that gap.**
