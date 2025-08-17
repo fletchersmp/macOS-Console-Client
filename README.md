@@ -1,2 +1,3 @@
 # macOS-Console-Client
-This project will allow multiple headless accounts to  join servers on Minecraft: Java &amp; Bedrock Edition on macOS. It uses the Microsoft Auth system to add accounts.
+
+AFK Console Client only provides a Java Edition client for Windows, but not macOS. This project is inspired by their intuitive design and will allow you to join Minecraft: Java & Bedrock Edition servers on macOS.
