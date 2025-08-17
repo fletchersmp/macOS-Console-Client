@@ -1,6 +1,6 @@
 # macOS-Console-Client
 
-![screenshot](docs/images/macos_preview.png)
+![screenshot](https://media.discordapp.net/attachments/761755638404612136/1406520276253937695/Placeholder-_-Glossary.png?ex=68a2c395&is=68a17215&hm=e172052e20557202154fc4aa403dd4fa9d81a90f8466c304e3427958d2099299&=&format=webp&quality=lossless&width=992&height=670)
 
 A lightweight AFK Console Client designed specifically for **macOS users**.  
 
