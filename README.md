@@ -14,7 +14,7 @@ Most existing Minecraft AFK clients are Windows-only or require complex technica
 ## Getting Started
 
 
-# Acknowledgments
+## Acknowledgments
 
 This project is heavily inspired by AFK Console Client developed by Valoks. However, their free program only works on Windows. I highly recommend you check out their amazing project — they also offer a paid web/cloud based client which also allows you to AFK 24/7 on any device.
 
